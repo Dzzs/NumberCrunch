@@ -1,0 +1,9 @@
+c:\users\damion\documents\visual studio 2015\Projects\NumberCrunch\NumberCrunch\bin\Debug\NumberCrunch.exe.config
+c:\users\damion\documents\visual studio 2015\Projects\NumberCrunch\NumberCrunch\obj\Debug\NumberCrunch.csprojResolveAssemblyReference.cache
+c:\users\damion\documents\visual studio 2015\Projects\NumberCrunch\NumberCrunch\obj\Debug\NumberCrunch.Form1.resources
+c:\users\damion\documents\visual studio 2015\Projects\NumberCrunch\NumberCrunch\obj\Debug\NumberCrunch.Properties.Resources.resources
+c:\users\damion\documents\visual studio 2015\Projects\NumberCrunch\NumberCrunch\obj\Debug\NumberCrunch.csproj.GenerateResource.Cache
+c:\users\damion\documents\visual studio 2015\Projects\NumberCrunch\NumberCrunch\bin\Debug\NumberCrunch.exe
+c:\users\damion\documents\visual studio 2015\Projects\NumberCrunch\NumberCrunch\bin\Debug\NumberCrunch.pdb
+c:\users\damion\documents\visual studio 2015\Projects\NumberCrunch\NumberCrunch\obj\Debug\NumberCrunch.exe
+c:\users\damion\documents\visual studio 2015\Projects\NumberCrunch\NumberCrunch\obj\Debug\NumberCrunch.pdb

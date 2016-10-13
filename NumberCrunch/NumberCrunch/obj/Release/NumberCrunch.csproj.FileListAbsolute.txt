@@ -1,0 +1,8 @@
+C:\Users\Damion\Documents\Visual Studio 2015\Projects\NumberCrunch\NumberCrunch\bin\Release\NumberCrunch.exe.config
+C:\Users\Damion\Documents\Visual Studio 2015\Projects\NumberCrunch\NumberCrunch\bin\Release\NumberCrunch.exe
+C:\Users\Damion\Documents\Visual Studio 2015\Projects\NumberCrunch\NumberCrunch\bin\Release\NumberCrunch.pdb
+C:\Users\Damion\Documents\Visual Studio 2015\Projects\NumberCrunch\NumberCrunch\obj\Release\NumberCrunch.Form1.resources
+C:\Users\Damion\Documents\Visual Studio 2015\Projects\NumberCrunch\NumberCrunch\obj\Release\NumberCrunch.Properties.Resources.resources
+C:\Users\Damion\Documents\Visual Studio 2015\Projects\NumberCrunch\NumberCrunch\obj\Release\NumberCrunch.csproj.GenerateResource.Cache
+C:\Users\Damion\Documents\Visual Studio 2015\Projects\NumberCrunch\NumberCrunch\obj\Release\NumberCrunch.exe
+C:\Users\Damion\Documents\Visual Studio 2015\Projects\NumberCrunch\NumberCrunch\obj\Release\NumberCrunch.pdb
